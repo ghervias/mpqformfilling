@@ -1,0 +1,8 @@
+{
+    "incidentName": "In sentence form, describe: Incident Name",
+    "incidentNumber": "In number format: Incident Number",
+    "todaysDate": "In MM/DD/YYYY format: Today's Date",
+    "time": "In the time format (--:-- PM/AM) : Time",
+    "location": "In sentence form, describe: Location",
+    "interviewer": "In sentence form, describe: Interviewer"
+}

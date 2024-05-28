@@ -1,0 +1,27 @@
+{
+    "maritalStatus": "In sentence form, describe: Marital Status and any recent changes?",
+    "Next of Kin Info": {
+        "subsection title": "Next of Kin Info",
+        "nextOfKin": "In sentence form, describe: Next of kin",
+        "nextOfKinRelationship": "In sentence form, describe: Relationship",
+        "nextOfKinAddress": "In sentence form, describe: Address",
+        "nextOfKinZip": "In sentence form, describe: Zip",
+        "nextOfKinPhone": "In phone number form: Best Phone #",
+        "nextOfKinEmail": "In email form: Best e-mail",
+        "nextOfKinOccupation": "In sentence form, describe: Occupation"
+    },
+    "Other Family/Friend Info": {
+        "subsection title": "Other Family/Friend Info",
+        "otherContact": "In sentence form, describe: Other Family/Friend Contact",
+        "otherContactRelationship": "In sentence form, describe: Relationship",
+        "otherContactAddress": "In sentence form, describe: Address",
+        "otherContactZip": "In sentence form, describe: Zip",
+        "othercontactPhone": "In phone number form: Best Phone #",
+        "otherContactEmail": "In email form: Best e-mail",
+        "otherContactOccupation": "In sentence form, describe: Occupation"
+    },
+    "significantRelationshipProblems": "In sentence form, describe: Significant relationship problems with any of the above?",
+    "familyDesireToEmploySpecialAssistance": "In sentence form, describe: Family's desire to employ special assistance",
+    "familyDesireRegardingPress": "In sentence form, describe: Family's desire regarding the Press/Media",
+    "commentsFamilyRelations": "In sentence form, describe: Comments"
+}

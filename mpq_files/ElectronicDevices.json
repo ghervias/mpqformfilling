@@ -1,0 +1,130 @@
+{
+    "1st Cell Phone Info": {
+        "subsection title": "1st Cell Phone Info",
+        "1stCellPhoneType": "In sentence form, describe: Type",
+        "1stCellPhoneModel": "In sentence form, describe: Model",
+        "1stCellPhoneProvider": "In sentence form, describe: Provider",
+        "1stCellPhonePin": "In sentence form, describe: Voice Mail Pin/Password",
+        "1stCellPhoneBattStatus": "In sentence form, describe: Battery Status",
+        "1stCellPhoneMessagesSent": "In sentence form, describe: Voice/Text Messages Sent",
+        "1stCellPhoneMessagesRecieved": "In sentence form, describe: Voice/Text Messages Recieved"
+    },
+    "2nd Cell Phone Info": {
+        "subsection title": "2nd Cell Phone Info",
+        "2ndCellPhoneType": "In sentence form, describe: Type",
+        "2ndCellPhoneModel": "In sentence form, describe: Model",
+        "2ndCellPhoneProvider": "In sentence form, describe: Provider",
+        "2ndCellPhonePin": "In sentence form, describe: Voice Mail Pin/Password",
+        "2ndCellPhoneBattStatus": "In sentence form, describe: Battery Status",
+        "2ndCellPhoneMessagesSent": "In sentence form, describe: Voice/Text Messages Sent",
+        "2ndCellPhoneMessagesRecieved": "In sentence form, describe: Voice/Text Messages Recieved"
+    },
+    "Satellite Cell Phone Info": {
+        "subsection title": "Satellite Cell Phone Info",
+        "SatelliteCellPhoneType": "In sentence form, describe: Type",
+        "SatelliteCellPhoneModel": "In sentence form, describe: Model",
+        "SatelliteCellPhoneProvider": "In sentence form, describe: Provider",
+        "SatelliteCellPhonePin": "In sentence form, describe: Voice Mail Pin/Password",
+        "SatelliteCellPhoneBattStatus": "In sentence form, describe: Battery Status",
+        "SatelliteCellPhoneMessagesSent": "In sentence form, describe: Voice/Text Messages Sent",
+        "SatelliteCellPhoneMessagesRecieved": "In sentence form, describe: Voice/Text Messages Recieved"
+    },
+    "GPS": {
+        "subsection title": "GPS",
+        "GPSModel": "In sentence form, describe: Model",
+        "GPSDefaultSetting": "In sentence form, describe: Default Setting",
+        "GPSDatum": "In sentence form, describe: Datum",
+        "GPSWaypoint": "Answer yes or no: Can Set/Use Waypoints",
+        "GPSBattStatus": "In sentence form, describe: Battery Status",
+        "GPSDownloadRoutes": "In sentence form, describe: Download Routes",
+        "GPSComputerAvail": "Answer yes or no: Computer Available"
+    },
+    "Radio": {
+        "subsection title": "Radio",
+        "radioModel": "In sentence form, describe: Model",
+        "radioFreq": "In sentence form, describe: Frequency",
+        "radioPLTone": "In sentence form, describe: PL Tone",
+        "radioCheckTime": "In the time format (--:-- PM/AM) : Check Time/Interval",
+        "radioBattStatus": "In sentence form, describe: Battery Status"
+    },
+    "Electronic Locator Device": {
+        "subsection title": "Electronic Locator Device",
+        "locatorDeviceBrand": "In sentence form, describe: Brand",
+        "locatorDeviceFreq": "In sentence form, describe: Frequency",
+        "locatorDeviceWhere": "In sentence form, describe: Where Worn on Subject?",
+        "locatorDeviceCompContact": "In sentence form, describe: Company Contact",
+        "locatorDeviceRDForCellPhoneGPS": "In sentence form, describe: RDF or Cell Phone/GPS",
+        "locatorDeviceBattStatus": "In sentence form, describe: Battery Status"
+    },
+    "Beacon (PLB, ELT, EPERB)": {
+        "subsection title": "Beacon (PLB, ELT, EPERB)",
+        "beaconModel": "In sentence form, describe: Model",
+        "beaconNumber": "In sentence form, describe: Number",
+        "beaconRegistered": "Answer yes or no: Registered",
+        "beaconBattStatus": "In sentence form, describe: Battery Status",
+        "beaconWebPW": "In sentence form, describe: Web Password"
+    },
+    "Satellite Emergency Notification Device (e.g. SPOT)": {
+        "subsection title": "Satellite Emergency Notification Device (e.g. SPOT)",
+        "SENDBrand": "In sentence form, describe: Brand",
+        "SENDServiceProvider": "In sentence form, describe: Service Provider",
+        "SENDRegisteredTo": "In sentence form, describe: Registered To",
+        "true": {
+            "subsubsection title": "Last Message Recieved",
+            "SENDLastMessageRecieved": "In sentence form, describe: Message",
+            "SENDLastMessageWhen": "In the time format (--:-- PM/AM) : When?",
+            "SENDLastMessageFrom": "In sentence form, describe: From Who?"
+        },
+        "SENDPlanIfEmergency": "In sentence form, describe: Plan If \"Emergency\" Notice is Recieved"
+    },
+    "Laptop/Computer": {
+        "subsection title": "Laptop/Computer",
+        "laptopComputerModel": "In sentence form, describe: Model",
+        "laptopComputerLocation": "In sentence form, describe: Location",
+        "laptopComputerPW": "In sentence form, describe: Password",
+        "laptopComputerBattStatus": "In sentence form, describe: Battery Status",
+        "laptopComputerScreenName": "In sentence form, describe: Screen Name",
+        "laptopComputerRecentUsage": "In sentence form, describe: Recent Internet Usage, Browser History, Emails, etc."
+    },
+    "Tablet Device": {
+        "subsection title": "Tablet Device",
+        "tabletModel": "In sentence form, describe: Model",
+        "tabletLocation": "In sentence form, describe: Location",
+        "tabletPassword": "In sentence form, describe: Password",
+        "tabletBattStatus": "In sentence form, describe: Battery Status",
+        "tabletScreenName": "In sentence form, describe: Screen Name"
+    },
+    "Social Media": {
+        "subsection title": "Social Media",
+        "socialMediaYN": "Answer yes or no: Does MP Use Any Social Networks?",
+        "true": {
+            "subsubsection title": "If Yes, List All Sites",
+            "socialMediaNetwork": "In sentence form, describe: Network",
+            "socialMediaUsername": "In sentence form, describe: Username",
+            "socialMediaPassword": "In sentence form, describe: Password",
+            "socialMediaFriends": "In sentence form, describe: Friend",
+            "socialMediaRecent": "In sentence form, describe: Recent Log on, Status, Location Tags, Blogs and/or Comments"
+        }
+    },
+    "CCTV": {
+        "subsection title": "CCTV",
+        "CCTVYN": "Answer yes or no: Are There Any CCTV Cameras Available at the PLS (or residence) or along any routes the MP might take to a trailhead or the MP's goal (e.g. at stores, intersections, busses)?",
+        "CCTVWhere": "In sentence form, describe: Where Can the Recordings be Obtained?"
+    },
+    "WiFi/Data": {
+        "subsection title": "WiFi/Data",
+        "wifiDataYN": "Answer yes or no: Does MP have a tablet, smart phone, or laptop with WiFi capability or with a data plan?",
+        "wifiDataPhoneNumber": "In sentence form, describe: What is the Associated Phone Number?",
+        "wifiDataService": "In sentence form, describe: What Service?"
+    },
+    "Gaming/Animation Sites": {
+        "subsection title": "Gaming/Animation Sites",
+        "gamingAnimationSiteYN": "Answer yes or no: Does MP Use Any Gaming or Animation Sites?",
+        "gamingAnimationSites": "In sentence form, describe: What Sites?",
+        "gamingAnimationSiteUsername": "In sentence form, describe: What is MP's User Name(s)?"
+    },
+    "Location Apps": {
+        "subsection title": "Location Apps",
+        "locationAppsYN": "Answer yes or no: Does MP use apps to locate their phone (i.e. Find My Phone, Find My iPhone, Find My Friends, etc.)?"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "fullNameContacts": "In sentence form, describe: Full Name",
+    "relationshipContacts": "In sentence form, describe: Relationship",
+    "addressContacts": "In sentence form, describe: Address",
+    "anyoneHome": "Answer yes or no: Anyone home now",
+    "answeringMachine": "Answer yes or no: Answering Machine?",
+    "whoHasAccessToMessages": "In sentence form, describe: Who has access to messages",
+    "remotePassword": "In sentence form, describe: Remote password",
+    "checkedMachine": "Answer yes or no: Checked machine"
+}

@@ -1,0 +1,98 @@
+{
+    "Smoking Habits": {
+        "subsection title": "Smoking Habits",
+        "smoke": "Answer yes or no: Smoke?",
+        "smokeHowOften": "In sentence form, describe: How often",
+        "smokeWhat": "In sentence form, describe: What",
+        "smokeBrand": "In sentence form, describe: Brand"
+    },
+    "Alcohol Habits": {
+        "subsection title": "Alcohol Habits",
+        "alcohol": "Answer yes or no: Alcohol?",
+        "alcoholHowOften": "In sentence form, describe: How often",
+        "alcoholWhat": "In sentence form, describe: What",
+        "alcoholBrand": "In sentence form, describe: Brand"
+    },
+    "Recreational Drug Habits": {
+        "subsection title": "Recreational Drug Habits",
+        "drug": "Answer yes or no: Recreational Drug?",
+        "drugsHowOften": "In sentence form, describe: How often",
+        "drugsWhat": "In sentence form, describe: What"
+    },
+    "Favorite Foods": {
+        "subsection title": "Favorite Foods",
+        "favoriteFood": "In sentence form, describe: Favorite foods",
+        "foodBrand": "In sentence form, describe: Brand",
+        "foodOther": "In sentence form, describe: Other"
+    },
+    "Close to MP": {
+        "subsection title": "Close to MP",
+        "personCloseTo": "In sentence form, describe: Person close to",
+        "inFamily": "In sentence form, describe: In family",
+        "otherClose": "In sentence form, describe: Other close friends (list in Section O)",
+        "closeToFriendFamily": "Answer yes or no: Is MP close to friend's family members (list in Section O)"
+    },
+    "Transportation": {
+        "subsection title": "Transportation",
+        "hitchhike": "Answer yes or no: Hitchhike?",
+        "acceptRides": "In sentence form, describe: Accepts rides easily?",
+        "familarWithPublicTrans": "Answer yes or no: Familiar with public transportation",
+        "useIt": "In sentence form, describe: Does he/she use it?",
+        "hasBike": "Answer yes or no: Has bike, skateboard, scooter, roller blades",
+        "hasBikeDescription": "In sentence form, describe: Description/location"
+    },
+    "goesOnWalk": "Answer yes or no: Goes on walks/hikes in area",
+    "whereFavorite": "In sentence form, describe: Where/favorite path",
+    "hasGoodSenseOfDirection": "Answer yes or no: Has good sense of direction",
+    "likesToExplore": "In sentence form, describe: Likes to explore",
+    "takenTripsOnOwn": "In sentence form, describe: Taken trips on own or with friends/relatives",
+    "reactionToStrangers": "In sentence form, describe: Reaction to strangers/police officers",
+    "willRespondIfCalled": "In sentence form, describe: Will respond if called",
+    "knowsHowToCall911": "In sentence form, describe: Knows how to use phone/dial 911",
+    "hasKnowledgeOfEmergencySignaling": "In sentence form, describe: Has knowledge of emergency signaling",
+    "hobbies": "In sentence form, describe: Hobbies/Interests",
+    "favoriteLocalPlaces": "In sentence form, describe: Favorite local places",
+    "describeDailyRoutine": "In sentence form, describe: Describe daily routine",
+    "personalHabits": "In sentence form, describe: Personal Habits",
+    "whoChoosesMPsClothing": "In sentence form, describe: Who chooses MP's clothing and what is MP's response",
+    "personality": "In sentence form, describe: Personality",
+    "evidenceOfLeadership": "In sentence form, describe: Evidence of leadership",
+    "giveUpEasy": "In sentence form, describe: Give up easy or keep going",
+    "anyPersonalProblemsOrViolent": "In sentence form, describe: Any personal problems or violent tendencies",
+    "Weapons": {
+        "subsection title": "Weapons",
+        "doesMPOwnAnyWeapons": "In sentence form, describe: Does MP own any weapons",
+        "areTheyStillInHousehold": "Answer yes or no: Are they still in household?",
+        "whereWeapons": "In sentence form, describe: Where"
+    },
+    "whatDoesheSheDoForFun": "In sentence form, describe: What does he/she do for fun",
+    "Swimming": {
+        "subsection title": "Swimming",
+        "ableToSwim": "Answer yes or no: Able to swim / tread water",
+        "howLoginSwim": "In sentence form, describe: How long",
+        "attractedToWater": "Answer yes or no: Attracted to water"
+    },
+    "afraidOfAnyAnimals": "In sentence form, describe: Afraid of any animals or birds",
+    "willHeSheChase": "In sentence form, describe: Will he/she chase or try to follow animals",
+    "Religion": {
+        "subsection title": "Religion",
+        "religious": "Answer yes or no: Religious?",
+        "faith": "In sentence form, describe: Faith",
+        "toWhatDegree": "In sentence form, describe: To what degree",
+        "contactOfClose": "In sentence form, describe: Contact of close acquaintances in MP's religion"
+    },
+    "personalValues": "In sentence form, describe: Personal values",
+    "philosophy": "In sentence form, describe: Philosophy",
+    "Education": {
+        "subsection title": "Education",
+        "educationHighestGrade": "In sentence form, describe: Education highest grade achieved",
+        "currentStatus": "In sentence form, describe: Current Status",
+        "collegeEducation": "In sentence form, describe: College Education",
+        "schoolName": "In sentence form, describe: School Name",
+        "subjectDegree": "In sentence form, describe: Subject/Degree",
+        "yearEducation": "In number format: Year",
+        "teachers": "In sentence form, describe: Teachers"
+    },
+    "localFictionHero": "In sentence form, describe: Local/ficional hero",
+    "commentsHabits": "In sentence form, describe: Comments"
+}

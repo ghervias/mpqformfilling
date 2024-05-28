@@ -1,0 +1,16 @@
+{
+    "nameKindOfGroup": "In sentence form, describe: Name/Kind of group",
+    "leaderOfGroup": "In sentence form, describe: Leader",
+    "leaderOfGroupExperience": "In sentence form, describe: Experience of group leader",
+    "groupMembersExperienceAndEquipment": "In sentence form, describe: Experience and equipment of group members",
+    "knowledgeablePersonAddressPhone": "In sentence form, describe: Address/Phone of knowledgeable person",
+    "Intra-group Dynamics Info": {
+        "subsection title": "Intra-group Dynamics Info",
+        "intraGroupDynamics": "In sentence form, describe: Intra-group dynamics",
+        "competitiveSpiritOfGroup": "In sentence form, describe: Competitive spirit of group",
+        "personalityClashesWithinGroup": "In sentence form, describe: Personality clashes within group",
+        "otherLeaderTypesInGroup": "In sentence form, describe: Leader types in group other than leader",
+        "whatWouldMPDoIfSeparated": "In sentence form, describe: What would MP do if separated from group"
+    },
+    "commentsGroups": "In sentence form, describe: Comments"
+}

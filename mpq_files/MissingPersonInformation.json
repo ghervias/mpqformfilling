@@ -1,0 +1,54 @@
+{
+    "fullName": "In sentence form, describe: Full Name",
+    "DOB": "In sentence form, describe: DOB",
+    "sex": "In sentence form, describe: Sex",
+    "maidenName": "In sentence form, describe: Maiden Name",
+    "nickname": "In sentence form, describe: Nicknames",
+    "otherAKA": "In sentence form, describe: Other AKA's",
+    "nameToCall": "In sentence form, describe: Name to call",
+    "Safe/Password": {
+        "subsection title": "Safe/Password",
+        "safePassword": "In sentence form, describe: Safe/Password",
+        "knowsSAfe": "In sentence form, describe: Who Knows Safe/Password"
+    },
+    "homeAddressMPI": "In sentence form, describe: Home Address",
+    "zipH": "In number format: Zip",
+    "localAddress": "In sentence form, describe: Local Address/Campsite/Lodging",
+    "zipL": "In number format: Zip",
+    "homePhone": "In phone number form: Home Phone",
+    "localPhone": "In phone number form: Local Phone",
+    "email": "In email form: Email Address(es)",
+    "Cell Phones": {
+        "subsection title": "Cell Phones",
+        "firstPhone": "In phone number form: 1st Cell Phone",
+        "firstCarrier": "In sentence form, describe: 1st Cell Carrier",
+        "firstVoiceMail": "In sentence form, describe: 1st Voice Mail PIN",
+        "secondPhone": "In phone number form: 2nd Cell Phone",
+        "secondCarrier": "In sentence form, describe: 2nd Cell Carrier",
+        "secondVoiceMail": "In sentence form, describe: 2nd Voice Mail PIN"
+    },
+    "howLongLived": "In sentence form, describe: How long lived at this location/area?",
+    "prevAddress": "In sentence form, describe: Previous addresses",
+    "faceBook": "In sentence form, describe: Facebook/Other Sites",
+    "screenName": "In sentence form, describe: Screen Names/Alias",
+    "birthplace": "In sentence form, describe: Birthplace",
+    "ethnicity": "In sentence form, describe: Ethnicity",
+    "nationalOrigin": "In sentence form, describe: National Origin",
+    "immmigrationStatus": "In sentence form, describe: Immigration Status",
+    "languages": "In sentence form, describe: Language(s) Preferred",
+    "spokenUnderStress": "In sentence form, describe: Spoken under stress (curse)",
+    "accent": "In sentence form, describe: Impediments/accent",
+    "Work/Student Info": {
+        "subsection title": "Work/Student Info",
+        "work": "In sentence form, describe: Work/Student",
+        "contactPerson": "In sentence form, describe: Contact Person",
+        "phone": "In phone number form: Phone",
+        "workAddress": "In sentence form, describe: Work/School Address"
+    },
+    "Driver's License Info": {
+        "subsection title": "Driver's License Info",
+        "driverLicenseNumber": "In number format: Driver's License Number",
+        "licenseState": "In sentence form, describe: State",
+        "licenseStatus": "In sentence form, describe: Status (Current/Suspended)"
+    }
+}

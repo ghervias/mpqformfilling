@@ -1,0 +1,56 @@
+{
+    "startedFrom": "In sentence form, describe: Started from",
+    "dayDateStartedFrom": "In sentence form, describe: Day/Date",
+    "timeStartedFrom": "In the time format (--:-- PM/AM) : Time",
+    "goingTo": "In sentence form, describe: Going to",
+    "intendedRoute": "In sentence form, describe: Intended Route",
+    "purposeOfTrip": "In sentence form, describe: Purpose/Intent of Trip",
+    "forHowLongTrip": "In sentence form, describe: Fow how long?",
+    "exitDate": "In sentence form, describe: Exit date",
+    "aloneTrip": "Answer yes or no: Alone?",
+    "groupSize": "In number format: Group size",
+    "Wilderness Permit": {
+        "subsection title": "Wilderness Permit",
+        "wildernessPermit": "Answer yes or no: Is there a Wilderness Permit",
+        "wildernessPermitName": "In sentence form, describe: Under who's name",
+        "groupContactTrip": "In sentence form, describe: Group contact"
+    },
+    "Previous Trips": {
+        "subsection title": "Previous Trips",
+        "doneTripBefore": "Answer yes or no: Done trip before?",
+        "tripDetails": "In sentence form, describe: Details"
+    },
+    "Transportation Details": {
+        "subsection title": "Transportation Details",
+        "transportedByWho": "In sentence form, describe: Transported by whom/means",
+        "vehicleNowLocatedAt": "In sentence form, describe: Vehicle now located at",
+        "vehicleType": "In sentence form, describe: Type",
+        "vehicleColor": "In sentence form, describe: Color",
+        "vehicleDistinguishingDetails": "In sentence form, describe: Distinguishing Details",
+        "vehicleLicenseNumber": "In sentence form, describe: License #",
+        "vechicleState": "In sentence form, describe: State",
+        "vehicleVerified": "Answer yes or no: Verified?",
+        "vehicleVerifiedByWhom": "In sentence form, describe: By whom",
+        "whoHasKeys": "In sentence form, describe: Who has keys",
+        "wasNoteLeftInside": "In sentence form, describe: Was a note left inside",
+        "willVehicleStart": "Answer yes or no: Will vehicle start?",
+        "vehicleStartVerifiedByWhom": "In sentence form, describe: By whom",
+        "plannedReturnTime": "In the time format (--:-- PM/AM) : Planned return time",
+        "returnFromWhere": "In sentence form, describe: From where",
+        "returnTransportation": "In sentence form, describe: By what form of transportation",
+        "additionalNamesForParty": "In sentence form, describe: Additional names, cars, licenses, etc. for party",
+        "alternatePlansDiscussed": "In sentence form, describe: Alternate plans/routes/objectives discussed"
+    },
+    "Resources Info": {
+        "subsection title": "Resources Info",
+        "resourcesUsedToPlanTrip": "In sentence form, describe: Resources used to plan trip (books/computer/maps/guides)",
+        "resourcesAvailable": "Answer yes or no: Available"
+    },
+    "Plan Discussion": {
+        "subsection title": "Plan Discussion",
+        "discussedPlansWithWhom": "In sentence form, describe: Discussed plans with whom",
+        "discussedPlansWhen": "In sentence form, describe: When"
+    },
+    "anyAnimalsWithParty": "In sentence form, describe: Any animals with party (horses, dogs) and number",
+    "commentsTripPlans": "In sentence form, describe: Comments"
+}

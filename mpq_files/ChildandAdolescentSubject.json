@@ -1,0 +1,56 @@
+{
+    "Fears": {
+        "subsection title": "Fears",
+        "afraidOfDark": "Answer yes or no: Afraid of dark?",
+        "afraidOfAnimals": "Answer yes or no: Afraid of animals?",
+        "afraidOfWhichAnimals": "In sentence form, describe: Which animals"
+    },
+    "Feelings and Emotional Reactions": {
+        "subsection title": "Feelings and Emotional Reactions",
+        "feelingsTowardAdults": "In sentence form, describe: Feelings toward adults",
+        "feelingsTowardStrangers": "In sentence form, describe: Feelings toward strangers",
+        "reactionsWhenHurt": "In sentence form, describe: Reactions when hurt",
+        "cryWhenHurt": "In sentence form, describe: Cry"
+    },
+    "anyTrainingForWhenLost": "In sentence form, describe: Any training for when lost",
+    "activeLethargicAntisocial": "In sentence form, describe: Active/lethargic/antisocial",
+    "matureOrImmature": "In sentence form, describe: Does MP act mature or immature for their age?",
+    "understandRelationships": "Answer yes or no: Understand social and personal relationships?",
+    "hasMpBeenDiscipliinedLately": "Answer yes or no: Has MP been disciplined lately?",
+    "howDoesMpAcceptPunishment": "In sentence form, describe: How does MP accept punishment?",
+    "reactionsWhenHurt": "In sentence form, describe: Reactions when hurt",
+    "School Info": {
+        "subsection title": "School Info",
+        "doesMpAttendSchool": "Answer yes or no: Does MP attend school?",
+        "whereDoesMpAttendSchool": "In sentence form, describe: Where does MP attend school?",
+        "gradesAttendanceProblems": "In sentence form, describe: Grades, attendance, problems?",
+        "schoolContactInfo": "In sentence form, describe: Contact info?",
+        "teacherName": "In sentence form, describe: Teacher's name",
+        "teacherPhone": "In phone number form: Teacher's phone",
+        "performanceInSchool": "In sentence form, describe: How does he/she do in school?"
+    },
+    "whoDoesMpPlayWith": "In sentence form, describe: Who does MP play with?",
+    "Stranger Info": {
+        "subsection title": "Stranger Info",
+        "noticedAnyStrangers": "In sentence form, describe: Have you noticed any \"strangers\" lately?",
+        "mentionedAnyStrangers": "In sentence form, describe: Has MP mentioned any strangers/new people lately?"
+    },
+    "Money Info": {
+        "subsection title": "Money Info",
+        "allowance": "Answer yes or no: Does MP get an allowance?",
+        "ableToHandleMoney": "Answer yes or no: Able to handle money?"
+    },
+    "Adolescence Info": {
+        "subsection title": "Adolescence Info",
+        "reachedPuberty": "Answer yes or no: Has MP reached puberty?",
+        "howAreTheyHandlingPuberty": "In sentence form, describe: How are they handling it and are they sexually active?"
+    },
+    "whereIsTheParentNow": "In sentence form, describe: Where is the mother/father now?",
+    "whatGamesDoesMpPlay": "In sentence form, describe: What games does MP play with his/her friends and where?",
+    "doesMpPlayHideAndSeek": "In sentence form, describe: Does MP play hide and seek and where? (is there a \"fort\" or \"clubhouse\")",
+    "commentsChildSubject": "In sentence form, describe: Comments",
+    "Close Friends, School Mates, Boyfriends/Girlfriends & Contact Info": {
+        "subsection title": "Close Friends, School Mates, Boyfriends/Girlfriends & Contact Info",
+        "personAndContactInfo": "In sentence form, describe: Name / Relationship / Contact Info"
+    }
+}

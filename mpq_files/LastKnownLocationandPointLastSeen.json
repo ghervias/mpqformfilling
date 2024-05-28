@@ -1,0 +1,22 @@
+{
+    "lastSeenBy": "In sentence form, describe: Last seen by whom",
+    "witnessLocationNow": "In sentence form, describe: Witness location now",
+    "dateLast": "In MM/DD/YYYY format: Date Last Seen",
+    "timeLast": "In the time format (--:-- PM/AM) : Time Last Seen",
+    "where": "In sentence form, describe: Where",
+    "whyHow": "In sentence form, describe: Why/how",
+    "lastToTalk": "In sentence form, describe: Who was to last talk at length with MP",
+    "whereLastTalk": "In sentence form, describe: Where",
+    "subjectsDiscussed": "In sentence form, describe: Subjects discussed",
+    "weatherLast": "In sentence form, describe: Weather at time last seen",
+    "weatherSince": "In sentence form, describe: Weather Since",
+    "seenGoing": "In sentence form, describe: Seen going which way",
+    "whenGoing": "In sentence form, describe: When",
+    "reasonForLeaving": "In sentence form, describe: Reason for leaving",
+    "attitude": "In sentence form, describe: Attitude (confident, confused, etc.)",
+    "mpComplaining": "In sentence form, describe: MP complaining of and/or voiced concern about anything",
+    "mpTired": "In sentence form, describe: MP seem tired",
+    "coldHot": "In sentence form, describe: Cold/Hot",
+    "other": "In sentence form, describe: Other",
+    "commentsLastKnown": "In sentence form, describe: Comments"
+}

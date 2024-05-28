@@ -1,0 +1,57 @@
+{
+    "height": "In sentence form, describe: Height",
+    "weight": "In sentence form, describe: Weight",
+    "age": "In number format: Age",
+    "build": "In sentence form, describe: Build",
+    "Eyes": {
+        "subsection title": "Eyes",
+        "eyeColor": "In sentence form, describe: Eye Color",
+        "eyewear": "In sentence form, describe: Eyewear/Contacts (sunglasses, spares)",
+        "eyesightNoGlasses": "In sentence form, describe: Eyesight w/out glasses"
+    },
+    "Hair": {
+        "subsection title": "Hair",
+        "currentColor": "In sentence form, describe: Current Color",
+        "naturalColor": "In sentence form, describe: Natural Color",
+        "length": "In sentence form, describe: Length",
+        "style": "In sentence form, describe: Style/Binding",
+        "wig": "In sentence form, describe: Wig",
+        "bald": "In sentence form, describe: Bald",
+        "describe": "In sentence form, describe: Describe",
+        "facialHair": "In sentence form, describe: Facial hair",
+        "styleColor": "In sentence form, describe: Style/Color",
+        "sideburns": "In sentence form, describe: Sideburns"
+    },
+    "facialFeaturesShape": "In sentence form, describe: Facial features shape",
+    "Skin": {
+        "subsection title": "Skin",
+        "skinColor": "In sentence form, describe: Skin Color",
+        "skinTone": "In sentence form, describe: Skin tone",
+        "complexion": "In sentence form, describe: Complexion"
+    },
+    "Finger Nails": {
+        "subsection title": "Finger Nails",
+        "fingernailColor": "In sentence form, describe: Color of fingernails",
+        "fakeNails": "In sentence form, describe: Fake nails",
+        "fingernailLength": "In sentence form, describe: Length of fingernails"
+    },
+    "distinguishingMarks": "In sentence form, describe: Distinguishing marks (scars/moles/tatoos/piercing)",
+    "overallAppearance": "In sentence form, describe: Overall Appearance",
+    "Photo": {
+        "subsection title": "Photo",
+        "photoAvailable": "Answer yes or no: Photo available",
+        "photoWhere": "In sentence form, describe: Where",
+        "photoReturn": "Answer yes or no: Need to be returned",
+        "photoDifferences": "In sentence form, describe: Any differences vs. current appearance"
+    },
+    "Scent Articles": {
+        "subsection title": "Scent Articles",
+        "scentArticlesAvailable": "Answer yes or no: Scent articles available",
+        "scentArticlesWhat": "In sentence form, describe: What",
+        "scentArticlesSecured": "Answer yes or no: Secured",
+        "collectedByWhom": "In sentence form, describe: Collected by Whom",
+        "whereIsScentArticleNow": "In sentence form, describe: Where is scent article now"
+    },
+    "accompaniedByAPet": "In sentence form, describe: Accompanied by a pet/type/name",
+    "comments": "In sentence form, describe: Comments"
+}

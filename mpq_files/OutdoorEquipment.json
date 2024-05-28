@@ -1,0 +1,41 @@
+{
+    "Stove": {
+        "subsection title": "Stove",
+        "stove": "In sentence form, describe: Stove",
+        "fuel": "In sentence form, describe: Fuel",
+        "starter": "Answer yes or no: Starter",
+        "whatStove": "In sentence form, describe: What"
+    },
+    "Drinking Liquid": {
+        "subsection title": "Drinking Liquid",
+        "drinkingLiquidContainer": "In sentence form, describe: Drinking Liquid Container",
+        "liquidAmount": "In number format: Liquid Amount",
+        "kindOfLiquid": "In sentence form, describe: Kind of Liquid"
+    },
+    "gps": "Answer yes or no: GPS",
+    "compass": "Answer yes or no: Compass",
+    "map": "Answer yes or no: Map",
+    "ofWhere": "In sentence form, describe: Of where",
+    "howCompetent": "In sentence form, describe: How competent with GPS/Map/Compass/Orienting Skills",
+    "food": "In sentence form, describe: Food",
+    "brands": "In sentence form, describe: Brands",
+    "Firearms or Bows": {
+        "subsection title": "Firearms or Bows",
+        "firearmsOrBows": "Answer yes or no: Firearms or Bows",
+        "brand": "In sentence form, describe: Brand",
+        "model": "In sentence form, describe: Model",
+        "holster": "In sentence form, describe: Holster"
+    },
+    "Ski/Snowboard and Snowshoes": {
+        "subsection title": "Ski/Snowboard and Snowshoes",
+        "skiType": "In sentence form, describe: Ski Type",
+        "skiBrand": "In sentence form, describe: Ski Brand",
+        "skiColor": "In sentence form, describe: Ski Color",
+        "skiSize": "In sentence form, describe: Ski Size",
+        "skiBindings": "In sentence form, describe: Ski Bindings",
+        "skiPole": "In sentence form, describe: Ski Pole",
+        "skiLength": "In sentence form, describe: Ski Length",
+        "skiHowCompetent": "In sentence form, describe: How competent"
+    },
+    "outdoorComments": "In sentence form, describe: Comments"
+}

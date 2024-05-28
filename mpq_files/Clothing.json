@@ -1,0 +1,8 @@
+{
+    "Footwear Information (if applicable)": {
+        "subsection title": "Footwear Information (if applicable)",
+        "footwearSoleType": "In sentence form, describe: Sole Type",
+        "footwearSampleAvailable": "Answer yes or no: Sample Available?",
+        "footwearWhere": "In sentence form, describe: Where?"
+    }
+}

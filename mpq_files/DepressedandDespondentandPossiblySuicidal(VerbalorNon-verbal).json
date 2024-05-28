@@ -1,0 +1,15 @@
+{
+    "hasSleepBeenDisrupted": "In sentence form, describe: Has sleep been disrupted lately",
+    "hasThereBeenAStressfulEvent": "Answer yes or no: Has there been a stressful event or significant loss (actual or threatened) in his/her life",
+    "significantAnniversary": "In sentence form, describe: Significant anniversary date(s)",
+    "expressedFeelingsOfGuilt": "In sentence form, describe: Expressed feelings of guilt, hopelessness or depression?",
+    "hasBeenExpressingGreatEmotionalPain": "In sentence form, describe: Has been expressing great emotional and/or physical pain or distress?",
+    "hasBeenPuttingThingsInOrder": "Answer yes or no: Has been putting things in order, e.g., paying up insurance policies, calling friends, giving away possessions?",
+    "hasTalkedAboutCommitting": "In sentence form, describe: Has talked about committing suicide, or said he/she is tired of living?",
+    "hasAttemptedSuicide": "Answer yes or no: Has attempted suicide in the past?",
+    "ifSoHowSuicide": "In sentence form, describe: If so, how?",
+    "anyHistoryOfBeingCommitted": "In sentence form, describe: Any history of being committed for 72hour mental evaluation (5150 Cal W&I)",
+    "hasResearchedMeansOfDeath": "Answer yes or no: Has researched means of death, rehearsed fatal acts or methods to avoid rescue (e.g. internet searches)",
+    "doTheyHaveTheMeans": "In sentence form, describe: Do they have the means (e.g., gun, pills, rope) to complete their intent?",
+    "areAnyWeaponsUnaccountedFor": "In sentence form, describe: Are any weapons, kitchen knives, etc. unaccounted for?"
+}

@@ -1,0 +1,65 @@
+{
+    "overallHealth": "In sentence form, describe: Overall health",
+    "overallPhysicalCondition": "In sentence form, describe: Overall physical condition",
+    "knownMedicalDentalProblems": "In sentence form, describe: Known medical/dental problems",
+    "Doctor": {
+        "subsection title": "Doctor",
+        "knowledgableDoctor": "In sentence form, describe: Knowledgable doctor",
+        "phoneDoctor": "In phone number form: Phone",
+        "emailDoctor": "In email form: E-mail"
+    },
+    "Medications": {
+        "subsection title": "Medications",
+        "medication": "In sentence form, describe: Medication (Prescriptions and OVC)",
+        "dosages": "In sentence form, describe: Dosages",
+        "withoutMeds": "In sentence form, describe: What will happen without meds",
+        "odMeds": "In sentence form, describe: What will happen if they OD on meds",
+        "knowledgablePerson": "In sentence form, describe: Knowledgable person",
+        "knowledgablePhone": "In phone number form: Phone",
+        "knowledgableEmail": "In email form: E-mail"
+    },
+    "Hearing": {
+        "subsection title": "Hearing",
+        "hearingProblems": "Answer yes or no: Hearing problems?",
+        "hearingAid": "Answer yes or no: Hearing aids?",
+        "areMp": "Answer yes or no: Are they with MP?",
+        "knowSignLanguage": "Answer yes or no: Knows Sign Language?"
+    },
+    "Denture Info": {
+        "subsection title": "Denture Info",
+        "dentures": "Answer yes or no: Dentures/Partials",
+        "dentist": "In sentence form, describe: Dentist",
+        "phoneDentist": "In phone number form: Phone"
+    },
+    "Mobility Info": {
+        "subsection title": "Mobility Info",
+        "useCane": "Answer yes or no: Use cane, walker, wheelchair",
+        "loseIt": "In sentence form, describe: What would happen if they lose it or fall down",
+        "ableToWalkDistance": "Answer yes or no: Able to walk distances, up/down stairs, around obstructions"
+    },
+    "Psychological Problems": {
+        "subsection title": "Psychological Problems",
+        "knownPsychological": "In sentence form, describe: Known psychological problems",
+        "knowledgablePersonPsychological": "In sentence form, describe: Knowledgable person",
+        "knowledgablePhonePsychological": "In phone number form: Phone"
+    },
+    "handicaps": "In sentence form, describe: Handicaps/Deformities/Prosthetics",
+    "emotionalHistory": "In sentence form, describe: Emotional/Mental Health History",
+    "currentEmotionalState": "In sentence form, describe: Current emotional state",
+    "recentDepression": "In sentence form, describe: Any recent depression",
+    "expressDepression": "In sentence form, describe: How does MP express depression (turn in or out)",
+    "MP's Desire for Own Space": {
+        "subsection title": "MP's Desire for Own Space",
+        "ownSpace": "Answer yes or no: Desire for own space",
+        "timeAlone": "Answer yes or no: Spending time alone lately",
+        "mpAlone": "In sentence form, describe: Where does MP go to be alone/to seek solitude"
+    },
+    "signsOfDementia": "In sentence form, describe: Any signs of dementia/confusion (Complete Section T&W)",
+    "historyOfSuicidalTendencies": "In sentence form, describe: Any history of suicidal tendencies (Complete Section U)",
+    "subjectDanger": "In sentence form, describe: Is the subject a danger to self or others?",
+    "phobias": "In sentence form, describe: Any specific fears or phobias",
+    "painThreshold": "In sentence form, describe: Pain threshold? (low, medium, high, stoic)",
+    "handleHeat": "In sentence form, describe: How MP handles heat, cold, weather, darkness?",
+    "medicalID": "In sentence form, describe: Does the MP wear a medical ID bracelet or tag",
+    "commentsHealth": "In sentence form, describe: Comments"
+}

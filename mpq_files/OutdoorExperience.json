@@ -1,0 +1,57 @@
+{
+    "Familiarity With Outdoor Area": {
+        "subsection title": "Familiarity With Outdoor Area",
+        "familiarWithArea": "Answer yes or no: Familiar with area",
+        "areaHowRecent": "In sentence form, describe: How Recent",
+        "mostCommonRoute": "In sentence form, describe: Most common route",
+        "otherAreasOfTravel": "In sentence form, describe: Other areas of travel"
+    },
+    "Formal Outdoor Training": {
+        "subsection title": "Formal Outdoor Training",
+        "formalOutdoorDegree": "In sentence form, describe: Formal outdoor/survival training / degree",
+        "whereOutdoorDegree": "In sentence form, describe: Where",
+        "whenOutdoorDegree": "In sentence form, describe: When"
+    },
+    "Medical Training": {
+        "subsection title": "Medical Training",
+        "medicalTraining": "In sentence form, describe: Any 1st aid or medical training",
+        "whenMedicalTraining": "In sentence form, describe: When"
+    },
+    "Scouting Experience": {
+        "subsection title": "Scouting Experience",
+        "scoutingExperience": "In sentence form, describe: Scouting Experience",
+        "whenScoutingExperience": "In sentence form, describe: When",
+        "whereScoutingExperience": "In sentence form, describe: Where",
+        "howLongScoutingExperience": "In sentence form, describe: How long",
+        "highestScoutRank": "In sentence form, describe: Highest Scout rank",
+        "scoutLeader": "Answer yes or no: Scout leader"
+    },
+    "Military Experience": {
+        "subsection title": "Military Experience",
+        "militaryExperience": "Answer yes or no: Military experience",
+        "whatMilitaryExperience": "In sentence form, describe: What",
+        "whenMilitaryExperience": "In sentence form, describe: When",
+        "whereMilitaryExperience": "In sentence form, describe: Where",
+        "militaryRank": "In sentence form, describe: Rank",
+        "otherMilitaryExperience": "In sentence form, describe: Other"
+    },
+    "generalizedPreviousExperience": "In sentence form, describe: Generalized previous experience",
+    "howMuchOvernightExperience": "In sentence form, describe: How much overnight experience",
+    "Experience Being Lost": {
+        "subsection title": "Experience Being Lost",
+        "everLostBefore": "Answer yes or no: Ever lost before",
+        "whereLostBefore": "In sentence form, describe: Where",
+        "whenLostBefore": "In sentence form, describe: When"
+    },
+    "Experience Being Alone": {
+        "subsection title": "Experience Being Alone",
+        "everGoOutAlone": "Answer yes or no: Ever go out alone",
+        "whereGoOutAlone": "In sentence form, describe: Where"
+    },
+    "tendsToStayOnTrailsOrCrossCountry": "In sentence form, describe: Tends to stay on trails or cross country",
+    "howFastDoesSubjectHike": "In sentence form, describe: How fast does subject hike",
+    "athleticInterests": "In sentence form, describe: Athletic/other interests",
+    "climbingExperience": "In sentence form, describe: Climbing (technical or free) experience",
+    "contactFamiliarWithMpExperience": "In sentence form, describe: Contact familiar with MP's experience",
+    "commentsOutdoorExperience": "In sentence form, describe: Comments"
+}
