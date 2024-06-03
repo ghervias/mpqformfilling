@@ -62,9 +62,9 @@
     },
     "upsetEasily": "Answer yes or no: Does the MP become upset easily",
     "calmingMethods": "In sentence form, describe: What calming methods are used or additional information 1st Responders may need",
-    "\"Stimms\" Info": {
-        "subsection title": "\"Stimms\" Info",
-        "stimms": "In sentence form, describe: What kind of \"stimms\" (repetitive stimulation actions) does the MP do?",
+    "Stimms Info": {
+        "subsection title": "Stimms Info",
+        "stimms": "In sentence form, describe: What kind of stimms (repetitive stimulation actions) does the MP do?",
         "stimmsCircumstances": "In sentence form, describe: Under what circumstances does the MP stimm?",
         "atypicalBehaviors": "In sentence form, describe: Atypical behaviors or characteristics of the individual that may attract the attention of responders"
     },
